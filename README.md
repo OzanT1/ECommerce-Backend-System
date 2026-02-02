@@ -1,6 +1,6 @@
 # E-Commerce Backend
 
-A multi-container backend system for e-commerce applications built with ASP.NET Core 9.0. The platform handles authentication & authorization, product management, shopping carts, orders, payments and email notifications through a distributed architecture.
+A multi-container backend system for e-commerce applications built with ASP.NET Core 9.0. The platform handles authentication & authorization, product management, shopping carts, orders, payments and email notifications through an event-driven architecture.
 
 ## Architecture
 
