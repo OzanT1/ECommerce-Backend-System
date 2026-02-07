@@ -70,7 +70,7 @@ A multi-container backend system for e-commerce applications built with ASP.NET 
 4. **Access the services**
    - API: `http://localhost:5000`
    - Swagger UI: `http://localhost:5000/swagger`
-   - RabbitMQ Management: `http://localhost:15672` (guest/guest)
+   - RabbitMQ Management: `http://localhost:15672`
 
 ## 🔑 Key Components
 
@@ -149,7 +149,6 @@ The application uses **Serilog** for structured logging:
 
 - **Console Output**: Real-time development feedback
 - **File Output**: Daily rolling logs in `logs/ecommerce-.log`
-- **Log Levels**: Configure in appsettings.json
 
 ## 🚢 Deployment
 
